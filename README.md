@@ -1,1 +1,1 @@
-# CFL-Bot
+# College-Bot
